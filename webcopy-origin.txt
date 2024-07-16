@@ -1,0 +1,260 @@
+Uri: https://fonts.gstatic.com/s/lobster/v18/pAEjWxDCHGX7OXS3SC2tywLUuEpTyoUstqEm5AMlJo4.woff
+File Name: C:\Users\crtvp\Desktop\сайт\mineshish.creatium.site\s\lobster\v18\pAEjWxDCHGX7OXS3SC2tywLUuEpTyoUstqEm5AMlJo4.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/opensans/v13/k3k702ZOKiLJc3WVjuplzAcuEIXEaFWBWXA4NoGd_Oo.woff
+File Name: C:\Users\crtvp\Desktop\сайт\mineshish.creatium.site\s\opensans\v13\k3k702ZOKiLJc3WVjuplzAcuEIXEaFWBWXA4NoGd_Oo.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/opensans/v13/PRmiXeptR36kaC0GEAetxpoxY6pJ8tEQQdWYhQvtl8Q.woff
+File Name: C:\Users\crtvp\Desktop\сайт\mineshish.creatium.site\s\opensans\v13\PRmiXeptR36kaC0GEAetxpoxY6pJ8tEQQdWYhQvtl8Q.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/opensans/v13/RjgO7rYTmqiVp7vzi-Q5UbO3LdcAZYWl9Si6vvxL-qU.woff
+File Name: C:\Users\crtvp\Desktop\сайт\mineshish.creatium.site\s\opensans\v13\RjgO7rYTmqiVp7vzi-Q5UbO3LdcAZYWl9Si6vvxL-qU.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/opensans/v13/xjAJXh38I15wypJXxuGMBkbeuvGrcRTTBH456c-a4yI.woff
+File Name: C:\Users\crtvp\Desktop\сайт\mineshish.creatium.site\s\opensans\v13\xjAJXh38I15wypJXxuGMBkbeuvGrcRTTBH456c-a4yI.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/roboto/v15/7m8l7TlFO-S3VkhHuR0at0beuvGrcRTTBH456c-a4yI.woff
+File Name: C:\Users\crtvp\Desktop\сайт\mineshish.creatium.site\s\roboto\v15\7m8l7TlFO-S3VkhHuR0at0beuvGrcRTTBH456c-a4yI.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/roboto/v15/Fl4y0QdOxyyTHEGMXX8kcbO3LdcAZYWl9Si6vvxL-qU.woff
+File Name: C:\Users\crtvp\Desktop\сайт\mineshish.creatium.site\s\roboto\v15\Fl4y0QdOxyyTHEGMXX8kcbO3LdcAZYWl9Si6vvxL-qU.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/roboto/v15/isZ-wbCXNKAbnjo6_TwHTrO3LdcAZYWl9Si6vvxL-qU.woff
+File Name: C:\Users\crtvp\Desktop\сайт\mineshish.creatium.site\s\roboto\v15\isZ-wbCXNKAbnjo6_TwHTrO3LdcAZYWl9Si6vvxL-qU.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/roboto/v15/m1uAalIytmLBFXF3PwhxpHYhjbSpvc47ee6xR_80Hnw.woff
+File Name: C:\Users\crtvp\Desktop\сайт\mineshish.creatium.site\s\roboto\v15\m1uAalIytmLBFXF3PwhxpHYhjbSpvc47ee6xR_80Hnw.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/roboto/v15/mUdRVCMHGKUBOACHGTH1g-vvDin1pK8aKteLpeZ5c0A.woff
+File Name: C:\Users\crtvp\Desktop\сайт\mineshish.creatium.site\s\roboto\v15\mUdRVCMHGKUBOACHGTH1g-vvDin1pK8aKteLpeZ5c0A.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/roboto/v15/oHi30kwQWvpCWqAhzHcCSLO3LdcAZYWl9Si6vvxL-qU.woff
+File Name: C:\Users\crtvp\Desktop\сайт\mineshish.creatium.site\s\roboto\v15\oHi30kwQWvpCWqAhzHcCSLO3LdcAZYWl9Si6vvxL-qU.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/roboto/v15/OLffGBTaF0XFOW1gnuHF0UbeuvGrcRTTBH456c-a4yI.woff
+File Name: C:\Users\crtvp\Desktop\сайт\mineshish.creatium.site\s\roboto\v15\OLffGBTaF0XFOW1gnuHF0UbeuvGrcRTTBH456c-a4yI.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/roboto/v15/t6Nd4cfPRhZP44Q5QAjcC0beuvGrcRTTBH456c-a4yI.woff
+File Name: C:\Users\crtvp\Desktop\сайт\mineshish.creatium.site\s\roboto\v15\t6Nd4cfPRhZP44Q5QAjcC0beuvGrcRTTBH456c-a4yI.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v6/dazS1PrQQuCxC3iOAJFEJVxy1emkJdO89Ay69zsEcxM.woff
+File Name: C:\Users\crtvp\Desktop\сайт\mineshish.creatium.site\s\robotoslab\v6\dazS1PrQQuCxC3iOAJFEJVxy1emkJdO89Ay69zsEcxM.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v6/dazS1PrQQuCxC3iOAJFEJZoxY6pJ8tEQQdWYhQvtl8Q.woff
+File Name: C:\Users\crtvp\Desktop\сайт\mineshish.creatium.site\s\robotoslab\v6\dazS1PrQQuCxC3iOAJFEJZoxY6pJ8tEQQdWYhQvtl8Q.woff
+Content Type: font/woff
+
+Uri: https://i.1.creatium.io/02/78/21/4b640089726b921b58723c384b7cabdc9f/content_copy_fill0_wght400_grad0_opsz48_1.svg
+File Name: C:\Users\crtvp\Desktop\сайт\mineshish.creatium.site\02\78\21\4b640089726b921b58723c384b7cabdc9f\content_copy_fill0_wght400_grad0_opsz48_1.svg
+Content Type: image/svg+xml
+
+Uri: https://i.1.creatium.io/26/38/90/3b1c8b712ef045ba173b5017875653f838/search_interface_symbol.svg
+File Name: C:\Users\crtvp\Desktop\сайт\mineshish.creatium.site\26\38\90\3b1c8b712ef045ba173b5017875653f838\search_interface_symbol.svg
+Content Type: image/svg+xml
+
+Uri: https://img2.creatium.io/disk2/41/68/91/3f67f6b11a2032b4bf2675ef99c5cde734/logobeliy.svg
+File Name: C:\Users\crtvp\Desktop\сайт\mineshish.creatium.site\disk2\41\68\91\3f67f6b11a2032b4bf2675ef99c5cde734\logobeliy.svg
+Content Type: image/svg+xml
+
+Uri: https://mineshish.creatium.site/
+File Name: C:\Users\crtvp\Desktop\сайт\mineshish.creatium.site\index.htm
+Content Type: text/html
+
+Uri: https://mineshish.creatium.site/about
+File Name: C:\Users\crtvp\Desktop\сайт\mineshish.creatium.site\about.html
+Content Type: text/html
+
+Uri: https://mineshish.creatium.site/assets/4.4/default.css?v=1708442658
+File Name: C:\Users\crtvp\Desktop\сайт\mineshish.creatium.site\assets\4.4\default.css
+Content Type: text/css
+
+Uri: https://mineshish.creatium.site/assets/4.4/default.js?v=1708442658
+File Name: C:\Users\crtvp\Desktop\сайт\mineshish.creatium.site\assets\4.4\default.js
+Content Type: application/javascript
+
+Uri: https://mineshish.creatium.site/assets/4.4/nodes.css?v=1708442658
+File Name: C:\Users\crtvp\Desktop\сайт\mineshish.creatium.site\assets\4.4\nodes.css
+Content Type: text/css
+
+Uri: https://mineshish.creatium.site/assets/4.4/nodes.js?v=1708442658
+File Name: C:\Users\crtvp\Desktop\сайт\mineshish.creatium.site\assets\4.4\nodes.js
+Content Type: application/javascript
+
+Uri: https://mineshish.creatium.site/assets/4.4/vendors-sync.js?v=1708442658
+File Name: C:\Users\crtvp\Desktop\сайт\mineshish.creatium.site\assets\4.4\vendors-sync.js
+Content Type: application/javascript
+
+Uri: https://mineshish.creatium.site/assets/4.4/vendors.css?v=1708442658
+File Name: C:\Users\crtvp\Desktop\сайт\mineshish.creatium.site\assets\4.4\vendors.css
+Content Type: text/css
+
+Uri: https://mineshish.creatium.site/assets/4.4/vendors.js?v=1708442658
+File Name: C:\Users\crtvp\Desktop\сайт\mineshish.creatium.site\assets\4.4\vendors.js
+Content Type: application/javascript
+
+Uri: https://mineshish.creatium.site/modpacks
+File Name: C:\Users\crtvp\Desktop\сайт\mineshish.creatium.site\modpacks.html
+Content Type: text/html
+
+Uri: https://mineshish.creatium.site/rules
+File Name: C:\Users\crtvp\Desktop\сайт\mineshish.creatium.site\rules.html
+Content Type: text/html
+
+Uri: https://mineshish.creatium.site/world_download
+File Name: C:\Users\crtvp\Desktop\сайт\mineshish.creatium.site\world_download.html
+Content Type: text/html
+
+Uri: https://static.creatium.app/macros/form/gradient.png
+File Name: C:\Users\crtvp\Desktop\сайт\mineshish.creatium.site\macros\form\gradient-1.png
+Content Type: image/png
+
+Uri: https://static.creatium.io/fonts/beermoney/400.woff
+File Name: C:\Users\crtvp\Desktop\сайт\mineshish.creatium.site\fonts\beermoney\400.woff
+Content Type: application/font-woff
+
+Uri: https://static.creatium.io/fonts/beermoney/400.woff2
+File Name: C:\Users\crtvp\Desktop\сайт\mineshish.creatium.site\fonts\beermoney\400.woff2
+Content Type: application/octet-stream
+
+Uri: https://static.creatium.io/fonts/bloggersans/400.woff
+File Name: C:\Users\crtvp\Desktop\сайт\mineshish.creatium.site\fonts\bloggersans\400.woff
+Content Type: application/font-woff
+
+Uri: https://static.creatium.io/fonts/bloggersans/400.woff2
+File Name: C:\Users\crtvp\Desktop\сайт\mineshish.creatium.site\fonts\bloggersans\400.woff2
+Content Type: application/octet-stream
+
+Uri: https://static.creatium.io/fonts/intro/400.woff
+File Name: C:\Users\crtvp\Desktop\сайт\mineshish.creatium.site\fonts\intro\400.woff
+Content Type: application/font-woff
+
+Uri: https://static.creatium.io/fonts/intro/400.woff2
+File Name: C:\Users\crtvp\Desktop\сайт\mineshish.creatium.site\fonts\intro\400.woff2
+Content Type: application/octet-stream
+
+Uri: https://static.creatium.io/fonts/junegull/400.woff
+File Name: C:\Users\crtvp\Desktop\сайт\mineshish.creatium.site\fonts\junegull\400.woff
+Content Type: application/font-woff
+
+Uri: https://static.creatium.io/fonts/junegull/400.woff2
+File Name: C:\Users\crtvp\Desktop\сайт\mineshish.creatium.site\fonts\junegull\400.woff2
+Content Type: application/octet-stream
+
+Uri: https://static.creatium.io/fonts/sladkoeshka/400.eot
+File Name: C:\Users\crtvp\Desktop\сайт\mineshish.creatium.site\fonts\sladkoeshka\400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.creatium.io/fonts/sladkoeshka/400.ttf
+File Name: C:\Users\crtvp\Desktop\сайт\mineshish.creatium.site\fonts\sladkoeshka\400.ttf
+Content Type: application/octet-stream
+
+Uri: https://static.creatium.io/fonts/sladkoeshka/400.woff
+File Name: C:\Users\crtvp\Desktop\сайт\mineshish.creatium.site\fonts\sladkoeshka\400.woff
+Content Type: application/font-woff
+
+Uri: https://static.creatium.io/fonts/sportsworld/400.woff
+File Name: C:\Users\crtvp\Desktop\сайт\mineshish.creatium.site\fonts\sportsworld\400.woff
+Content Type: application/font-woff
+
+Uri: https://static.creatium.io/fonts/sportsworld/400.woff2
+File Name: C:\Users\crtvp\Desktop\сайт\mineshish.creatium.site\fonts\sportsworld\400.woff2
+Content Type: application/octet-stream
+
+Uri: https://static.creatium.io/fonts/ttnorms/343165_4_0.eot
+File Name: C:\Users\crtvp\Desktop\сайт\mineshish.creatium.site\fonts\ttnorms\343165_4_0.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.creatium.io/fonts/ttnorms/343165_4_0.eot?
+File Name: C:\Users\crtvp\Desktop\сайт\mineshish.creatium.site\fonts\ttnorms\343165_4_0-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.creatium.io/fonts/ttnorms/343165_4_0.ttf
+File Name: C:\Users\crtvp\Desktop\сайт\mineshish.creatium.site\fonts\ttnorms\343165_4_0.ttf
+Content Type: application/octet-stream
+
+Uri: https://static.creatium.io/fonts/ttnorms/343165_4_0.woff
+File Name: C:\Users\crtvp\Desktop\сайт\mineshish.creatium.site\fonts\ttnorms\343165_4_0.woff
+Content Type: application/font-woff
+
+Uri: https://static.creatium.io/fonts/ttnorms/343165_4_0.woff2
+File Name: C:\Users\crtvp\Desktop\сайт\mineshish.creatium.site\fonts\ttnorms\343165_4_0.woff2
+Content Type: application/octet-stream
+
+Uri: https://static.creatium.io/fonts/ttnorms/343165_D_0.eot
+File Name: C:\Users\crtvp\Desktop\сайт\mineshish.creatium.site\fonts\ttnorms\343165_D_0.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.creatium.io/fonts/ttnorms/343165_D_0.eot?
+File Name: C:\Users\crtvp\Desktop\сайт\mineshish.creatium.site\fonts\ttnorms\343165_D_0-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.creatium.io/fonts/ttnorms/343165_D_0.ttf
+File Name: C:\Users\crtvp\Desktop\сайт\mineshish.creatium.site\fonts\ttnorms\343165_D_0.ttf
+Content Type: application/octet-stream
+
+Uri: https://static.creatium.io/fonts/ttnorms/343165_D_0.woff
+File Name: C:\Users\crtvp\Desktop\сайт\mineshish.creatium.site\fonts\ttnorms\343165_D_0.woff
+Content Type: application/font-woff
+
+Uri: https://static.creatium.io/fonts/ttnorms/343165_D_0.woff2
+File Name: C:\Users\crtvp\Desktop\сайт\mineshish.creatium.site\fonts\ttnorms\343165_D_0.woff2
+Content Type: application/octet-stream
+
+Uri: https://static.creatium.io/fonts/ttnorms/343165_F_0.eot
+File Name: C:\Users\crtvp\Desktop\сайт\mineshish.creatium.site\fonts\ttnorms\343165_F_0.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.creatium.io/fonts/ttnorms/343165_F_0.eot?
+File Name: C:\Users\crtvp\Desktop\сайт\mineshish.creatium.site\fonts\ttnorms\343165_F_0-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.creatium.io/fonts/ttnorms/343165_F_0.ttf
+File Name: C:\Users\crtvp\Desktop\сайт\mineshish.creatium.site\fonts\ttnorms\343165_F_0.ttf
+Content Type: application/octet-stream
+
+Uri: https://static.creatium.io/fonts/ttnorms/343165_F_0.woff
+File Name: C:\Users\crtvp\Desktop\сайт\mineshish.creatium.site\fonts\ttnorms\343165_F_0.woff
+Content Type: application/font-woff
+
+Uri: https://static.creatium.io/fonts/ttnorms/343165_F_0.woff2
+File Name: C:\Users\crtvp\Desktop\сайт\mineshish.creatium.site\fonts\ttnorms\343165_F_0.woff2
+Content Type: application/octet-stream
+
+Uri: https://static.creatium.io/fonts/unisansac/300.woff
+File Name: C:\Users\crtvp\Desktop\сайт\mineshish.creatium.site\fonts\unisansac\300.woff
+Content Type: application/font-woff
+
+Uri: https://static.creatium.io/fonts/unisansac/300.woff2
+File Name: C:\Users\crtvp\Desktop\сайт\mineshish.creatium.site\fonts\unisansac\300.woff2
+Content Type: application/octet-stream
+
+Uri: https://static.creatium.io/fonts/unisansac/900.woff
+File Name: C:\Users\crtvp\Desktop\сайт\mineshish.creatium.site\fonts\unisansac\900.woff
+Content Type: application/font-woff
+
+Uri: https://static.creatium.io/fonts/unisansac/900.woff2
+File Name: C:\Users\crtvp\Desktop\сайт\mineshish.creatium.site\fonts\unisansac\900.woff2
+Content Type: application/octet-stream
+
+Uri: https://static.creatium.io/macros/form/gradient.png
+File Name: C:\Users\crtvp\Desktop\сайт\mineshish.creatium.site\macros\form\gradient.png
+Content Type: image/png
+
+Uri: https://themes.googleusercontent.com/static/fonts/yesevaone/v7/AehIYCFomPDBe18pH83xwxsxEYwM7FgeyaSgU71cLG0.woff
+File Name: C:\Users\crtvp\Desktop\сайт\mineshish.creatium.site\static\fonts\yesevaone\v7\AehIYCFomPDBe18pH83xwxsxEYwM7FgeyaSgU71cLG0.woff
+Content Type: font/woff
+

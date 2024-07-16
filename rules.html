@@ -1,0 +1,613 @@
+﻿<!DOCTYPE html>
+
+<html>
+
+<head>
+
+    <!-- PLUGINS -->
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+    <meta name="generator" content="Creatium">
+
+    <title>Правила — Mineshish</title>
+	<link rel="shortcut icon" type="image/x-icon" href="android-chrome-512x512.png">
+
+    
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <script type="application/ld+json">{}</script>
+    
+                <script>
+                window.creatium = {"creatium":true,"visit_id":null,"site_id":282724,"page_id":1664612,"content_id":1612028,"lang":"ru","time":1718304040,"screens":"screens-xs-md-lg","animations":[],"cookies":{"alert":0,"message":""},"integrations":[],"misc":{"cdn_host":"i.1.creatium.io"},"allow_cookies":true,"site_options":{"captcha_signup":false,"captcha_orders":false,"member_allow_signup":false,"member_allow_auth":false},"member":{"id":0},"async":{"js":["\/app\/4.4\/delivery-builder?action=async&key=614fe2b5cf1c54a12a59ff04556381bc","\/assets\/4.4\/vendors-async.js?v=1708442658","\/assets\/4.4\/formula-async.js?v=1708442658"],"css":["\/assets\/4.4\/vendors-async.css?v=1708442658"],"js_adaptive_sections":"\/app\/4.4\/delivery-builder?action=adaptive-sections&key=614fe2b5cf1c54a12a59ff04556381bc"},"device":"other","mini":false,"scroll":{"snapping":false}};
+                window.cr = window.creatium;
+                window.plp = window.creatium;
+                window.error_handler = function (e, fn_id) {
+                    window.console && console.log && console.log(fn_id);
+                    window['error_handler_' + fn_id] && eval(window['error_handler_' + fn_id]);
+                    window.console && console.error && console.error(e.message);
+                };
+                    cr.api = function (v, cb) { cr.api.queue.push([v, cb]) };
+    cr.api.queue = [];
+    cr.layout = {"top":0,"left":0};
+            </script>
+    <!-- CORE -->
+    <link type="text/css" rel="stylesheet" href="assets/4.4/vendors.css?v=1708442658"><link type="text/css" rel="stylesheet" href="assets/4.4/default.css?v=1708442658"><link type="text/css" rel="stylesheet" href="assets/4.4/nodes.css?v=1708442658">    <script defer="" type="text/javascript" src="assets/4.4/vendors.js?v=1708442658"></script><script defer="" type="text/javascript" src="assets/4.4/default.js?v=1708442658"></script><script defer="" type="text/javascript" src="assets/4.4/nodes.js?v=1708442658"></script><link rel="preload" href="assets/4.4/vendors-sync.js?v=1708442658" as="script">
+            <style> 
+.node.css1 > .wrapper1 { background-color: rgb(36, 37, 42) }
+.node.css1  { color: #FFF }
+.node.css1  > .padding_top { padding-top: 10px }
+.node.css1  > .padding_bottom { padding-bottom: 10px }
+.node.css1 a { color: rgb(25, 63, 230) }
+.node.css2  { color: #FFF; padding-top: 5px; padding-bottom: 5px; padding-left: 0px; padding-right: 0px }
+.node.css2 a { color: rgb(25, 63, 230) }
+.node.css3  { color: #FFF; padding-top: 10px; padding-bottom: 10px; padding-left: 5px; padding-right: 5px }
+.node.css3 a { color: rgb(25, 63, 230) }
+.node.css4 .bgimage { height: 80px; background-position: center }
+.node.css4 img.selectable { max-height: 80px }
+.node.css4 .proportions { width: calc(var(--width) / var(--height) * 80); padding-top: 80px }
+.node.css5  { color: #FFF; padding-top: 5px; padding-bottom: 5px; padding-left: 5px; padding-right: 6px }
+.node.css5 a { color: rgb(25, 63, 230) }
+.node.css6 > .w-menu-grid > .cont > .node { margin: 0 4px }
+.node.css7  { color: #FFF; padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px }
+.node.css7 a { color: rgb(25, 63, 230) }
+.css8 .btn-custom {
+  display: inline-flex;
+  justify-content: flex-start
+
+
+
+;
+  align-items: center;
+  border: solid 0px rgba(128, 128, 128, 1);
+  text-decoration: none;
+  cursor: pointer;
+  padding: 10px 20px 10px 16px;
+  border-radius: 0px;
+  font-size: 16px;
+  font-family: 'TTNorms Regular',sans-serif, sans-serif;
+  gap: 7px;
+  color: rgb(255, 255, 255);
+  background-color: rgb(36, 37, 42);
+  width: auto;
+  transition: all 0.5s;
+  margin:  0 auto  ;
+  white-space: nowrap;
+  box-shadow: none;
+  line-height: 24px;
+}
+
+.css8 .btn-custom:hover {
+  color: rgb(238, 238, 238);
+  background-color: rgb(36, 37, 42);
+  box-shadow: none;
+  border-radius: 0px;
+  border-color: rgb(36, 37, 42);
+  transition: all 0.5s;
+}
+
+.css8 .btn-custom:active {
+  color: rgb(227, 227, 227);
+  background-color: rgba(36, 37, 42, 0);
+  box-shadow: none;
+  border-radius: 0px;
+  border-color: rgb(36, 37, 42);
+  transition: all 0.5s;
+}
+
+.css8 .btn-custom:focus {
+  border-color: rgb(36, 37, 42);
+  box-shadow: none;
+  transition: all 0.5s;
+}
+
+.css8 .btn-custom__icon {
+  width: 24px;
+  height: 24px;
+}
+
+.active .css8 .btn-custom,
+.css8 .active.btn-custom {
+  color: rgb(238, 238, 238);
+  background-color: rgb(36, 37, 42);
+  box-shadow: none;
+  border-radius: 0px;
+  border-color: rgb(36, 37, 42);
+  transition: all 0.5s;
+}
+
+.css8 .btn-custom__first-icon {
+  display: inline-block;
+  background: url(02/78/21/4b640089726b921b58723c384b7cabdc9f/content_copy_fill0_wght400_grad0_opsz48_1.svg) center center no-repeat;
+  background-size: 24px;
+}
+
+.css8 .btn-custom__second-icon {
+  display: none;
+  background: url(26/38/90/3b1c8b712ef045ba173b5017875653f838/search_interface_symbol.svg) center center no-repeat;
+  background-size: 24px;
+}
+
+.css8 .btn-custom:hover .btn-custom__first-icon {
+  background-image: ;
+}
+
+.css8 .btn-custom__img-side-left {
+  flex-direction: row;
+}
+
+.css8 .btn-custom__img-side-right {
+  flex-direction: row-reverse;
+}
+
+
+
+
+
+.css8 .btn-custom__copy.hidden {
+  display: none;
+}
+
+/*Адаптив*/
+
+.screen-md .css8 .on_laptop.btn-custom {
+  gap: 0px;
+}
+
+.screen-sm .css8 .on_table.btn-custom {
+  gap: 0px;
+}
+
+.screen-xs .css8 .on_phone.btn-custom {
+  gap: 6px;
+}
+
+.screen-md .css8 .on_laptop .btn-custom__icon {
+  background-size: 24px;
+  width: 24px;
+  height: 24px;
+}
+
+.screen-sm .css8 .on_table .btn-custom__icon {
+  background-size: 24px;
+  width: 24px;
+  height: 24px;
+}
+
+.screen-xs .css8 .on_phone .btn-custom__icon {
+  background-size: 24px;
+  width: 24px;
+  height: 24px;
+}
+
+.screen-md .css8 .on_laptop .btn-custom__first-icon {
+  display: none;
+}
+
+.screen-sm .css8 .on_table .btn-custom__first-icon {
+  display: none;
+}
+
+.screen-xs .css8 .on_phone .btn-custom__first-icon {
+  display: none;
+}
+
+.screen-md .css8 .on_laptop .btn-custom__second-icon {
+  display: none;
+}
+
+.screen-sm .css8 .on_table .btn-custom__second-icon {
+  display: none;
+}
+
+.screen-xs .css8 .on_phone .btn-custom__second-icon {
+  display: none;
+}
+
+.screen-md .css8 .on_laptop .btn-custom__title,
+.screen-md .btn-custom__copy {
+  display: none;
+  font-size: 0px;
+}
+
+.screen-sm .css8 .on_table .btn-custom__title,
+.screen-sm .btn-custom__copy {
+  display: none;
+  font-size: 0px;
+}
+
+.screen-xs .css8 on_phone .btn-custom__title,
+.screen-xs .btn-custom__copy {
+  display: none;
+  font-size: 15px;
+}
+.node.css9  { color: #FFF; padding-top: 5px; padding-bottom: 5px; padding-left: 5px; padding-right: 5px }
+.node.css9 a { color: rgb(25, 63, 230) }
+.btn.css10 { text-align: center } .btn.css10 { background-color: rgb(36, 37, 42);border-top-left-radius: 5px;border-top-right-radius: 5px;border-bottom-right-radius: 5px;border-bottom-left-radius: 5px;border-style: solid;border-top-width: 1px;border-bottom-width: 1px;border-left-width: 1px;border-right-width: 1px;border-color: rgb(36, 37, 42);padding-top: 6px;padding-bottom: 6px;font-size: 16px;color: rgb(255, 255, 255)!important;font-family: 'TTNorms Regular',sans-serif; } .btn.css10:hover, .btn.css10.hover { background-color: rgb(32, 33, 38);border-color: rgb(32, 33, 38);color: rgb(255, 255, 255)!important; } .btn.css10:active, .btn.css10.active { background-color: rgb(32, 33, 38);border-color: rgb(26, 27, 30);color: rgb(255, 255, 255)!important; } .btn.css10:before {  } .btn.css10:active:before, .btn.css10.active:before { background-color: rgb(32, 33, 38); }
+.node.css11 > .wrapper1 { background-position: center center; background-size: cover; background-repeat: no-repeat }
+.node.css11 > .wrapper1 > .wrapper2 { background-color: rgba(0,0,0,0.76) }
+.node.css11  { color: #FFF }
+.node.css11  > .padding_top { padding-top: 135px }
+.node.css11  > .padding_bottom { padding-bottom: 128px }
+.node.css11 a { color: rgb(25, 142, 230) }
+.node.css12  { color: #FFF; padding-top: 5px; padding-bottom: 5px; padding-left: 5px; padding-right: 5px }
+.node.css12 a { color: rgb(25, 142, 230) }
+.textable.css13  { text-align: center; font-family: 'TTNorms Bold',sans-serif; font-size: 60px; font-weight: 400; line-height: 1.1; letter-spacing: 0em; opacity: 1 }
+.screen-xs .textable.css13  { text-align: center!important; font-size: 38px!important }
+.node.css14  { color: #FFF; padding-top: 25px; padding-bottom: 50px; padding-left: 5px; padding-right: 5px }
+.node.css14 a { color: rgb(25, 142, 230) }
+.textable.css15  { text-align: left; font-family: 'TTNorms Regular',sans-serif; font-size: 26px; font-weight: 400; line-height: 1.4; letter-spacing: 0em; opacity: 0.61 }
+.screen-xs .textable.css15  { text-align: center!important }
+.textable.css16  { text-align: center; font-family: 'TTNorms Bold',sans-serif; font-size: 26px; font-weight: 400; line-height: 1.1; letter-spacing: 0em; opacity: 0.8 }
+.screen-xs .textable.css16  { text-align: center!important; font-size: 38px!important }
+.node.css17  { color: #FFF; padding-top: 25px; padding-bottom: 0px; padding-left: 6px; padding-right: 5px }
+.node.css17 a { color: rgb(25, 142, 230) }
+.node.css18  { color: #FFF; padding-top: 5px; padding-bottom: 40px; padding-left: 5px; padding-right: 5px }
+.node.css18 a { color: rgb(25, 142, 230) }
+.node.css19  { color: #FFF; padding-top: 25px; padding-bottom: 0px; padding-left: 5px; padding-right: 5px }
+.node.css19 a { color: rgb(25, 142, 230) }
+.node.css20 > .wrapper1 { background-color: rgb(19, 22, 29) }
+.node.css20  { color: #FFF }
+.node.css20  > .padding_top { padding-top: 60px }
+.node.css20  > .padding_bottom { padding-bottom: 90px }
+.screen-xs .node.css20  > .padding_bottom { padding-bottom: 70px!important }
+.node.css20 a { color: rgb(25, 87, 230) }
+.node.css21  { color: #FFF; padding-top: 5px; padding-bottom: 5px; padding-left: 5px; padding-right: 5px }
+.node.css21 a { color: rgb(25, 87, 230) }
+.node.css22  { color: #FFF; padding-top: 5px; padding-bottom: 5px; padding-left: 5px; padding-right: 0px }
+.node.css22 a { color: rgb(25, 87, 230) }
+.textable.css23  { text-align: left; font-family: 'TTNorms Bold',sans-serif; font-size: 20px; font-weight: 400; line-height: 1.1; letter-spacing: 0em; opacity: 1 }
+.screen-xs .textable.css23  { text-align: center!important }
+.btn.css24 { text-align: center } .btn.css24 { background-color: rgb(19, 22, 29);border-top-left-radius: 5px;border-top-right-radius: 5px;border-bottom-right-radius: 5px;border-bottom-left-radius: 5px;border-style: solid;border-top-width: 1px;border-bottom-width: 1px;border-left-width: 1px;border-right-width: 1px;border-color: rgb(19, 22, 29);padding-top: 6px;padding-bottom: 6px;font-size: 18px;color: rgb(255, 255, 255)!important;font-family: 'TTNorms Regular',sans-serif; } .btn.css24:hover, .btn.css24.hover { background-color: rgb(19, 22, 29);border-color: rgb(19, 22, 29);color: rgb(255, 255, 255)!important; } .btn.css24:active, .btn.css24.active { background-color: rgb(19, 22, 29);border-color: rgb(19, 22, 29);color: rgb(255, 255, 255)!important; } .btn.css24:before {  } .btn.css24:active:before, .btn.css24.active:before { background-color: rgb(19, 22, 29); }
+.btn.css25 { text-align: center } .btn.css25 { background-color: rgba(19, 22, 29, 0);border-top-left-radius: 5px;border-top-right-radius: 5px;border-bottom-right-radius: 5px;border-bottom-left-radius: 5px;border-style: solid;border-top-width: 0px;border-bottom-width: 0px;border-left-width: 0px;border-right-width: 0px;border-color: rgb(19, 22, 29);padding-top: 6px;padding-bottom: 6px;font-size: 14px;color: rgb(104, 105, 107)!important;font-family: 'TTNorms Regular',sans-serif; } .btn.css25:hover, .btn.css25.hover { background-color: rgba(17, 20, 26, 0);border-color: rgb(17, 20, 26);color: rgb(220, 75, 24)!important; } .btn.css25:active, .btn.css25.active { background-color: rgba(17, 20, 26, 0);border-color: rgb(14, 16, 21);color: rgb(255, 255, 255)!important; } .btn.css25:before {  } .btn.css25:active:before, .btn.css25.active:before { background-color: rgba(17, 20, 26, 0); }
+@font-face {
+    font-family: 'Open Sans';
+    font-display: swap;
+    font-style: normal;
+    font-weight: normal;
+    src: local('Open Sans'), local('OpenSans'), url(s/opensans/v13/RjgO7rYTmqiVp7vzi-Q5UbO3LdcAZYWl9Si6vvxL-qU.woff) format('woff');
+}
+@font-face {
+    font-family: 'Open Sans';
+    font-display: swap;
+    font-style: normal;
+    font-weight: bold;
+    src: local('Open Sans Bold'), local('OpenSans-Bold'), url(s/opensans/v13/k3k702ZOKiLJc3WVjuplzAcuEIXEaFWBWXA4NoGd_Oo.woff) format('woff');
+}
+@font-face {
+    font-family: 'Open Sans';
+    font-display: swap;
+    font-style: italic;
+    font-weight: normal;
+    src: local('Open Sans Italic'), local('OpenSans-Italic'), url(s/opensans/v13/xjAJXh38I15wypJXxuGMBkbeuvGrcRTTBH456c-a4yI.woff) format('woff');
+}
+@font-face {
+    font-family: 'Open Sans';
+    font-display: swap;
+    font-style: italic;
+    font-weight: bold;
+    src: local('Open Sans Bold Italic'), local('OpenSans-BoldItalic'), url(s/opensans/v13/PRmiXeptR36kaC0GEAetxpoxY6pJ8tEQQdWYhQvtl8Q.woff) format('woff');
+}
+@font-face {
+    font-family: 'Roboto Slab Light';
+    font-display: swap;
+    font-style: normal;
+    font-weight: normal;
+    src: local('Roboto Slab Light'), local('RobotoSlab-Light'), url(s/robotoslab/v6/dazS1PrQQuCxC3iOAJFEJVxy1emkJdO89Ay69zsEcxM.woff) format('woff');
+}
+@font-face {
+    font-family: 'Roboto Slab Light';
+    font-display: swap;
+    font-style: normal;
+    font-weight: bold;
+    src: local('Roboto Slab Bold'), local('RobotoSlab-Bold'), url(s/robotoslab/v6/dazS1PrQQuCxC3iOAJFEJZoxY6pJ8tEQQdWYhQvtl8Q.woff) format('woff');
+}
+@font-face {
+    font-family: 'Intro';
+    font-display: swap;
+    src: local('Intro'), url('fonts/intro/400.woff2') format('woff2'), url('fonts/intro/400.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Sports World';
+    font-display: swap;
+    src: local('Sports World'), local('SportsWorld'), url('fonts/sportsworld/400.woff2') format('woff2'), url('fonts/sportsworld/400.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Uni Sans';
+    font-display: swap;
+    src: local('Uni Sans Thin Caps'), local('UniSansThinCaps'), url('fonts/unisansac/300.woff2') format('woff2'), url('fonts/unisansac/300.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Uni Sans';
+    font-display: swap;
+    src: local('Uni Sans Heavy Caps'), local('UniSansHeavyCaps'), url('fonts/unisansac/900.woff2') format('woff2'), url('fonts/unisansac/900.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Junegull';
+    font-display: swap;
+    src: local('Junegull-Regular'), url('fonts/junegull/400.woff2') format('woff2'), url('fonts/junegull/400.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Lobster';
+    font-display: swap;
+    font-style: normal;
+    font-weight: normal;
+    src: local('Lobster'), local('Lobster-Regular'), url(s/lobster/v18/pAEjWxDCHGX7OXS3SC2tywLUuEpTyoUstqEm5AMlJo4.woff) format('woff');
+}
+@font-face {
+    font-family: 'Yeseva One';
+    font-display: swap;
+    font-style: normal;
+    font-weight: normal;
+    src: local('Yeseva One'), local('YesevaOne'), url(static/fonts/yesevaone/v7/AehIYCFomPDBe18pH83xwxsxEYwM7FgeyaSgU71cLG0.woff) format('woff');
+}
+@font-face {
+    font-family: 'Beer money';
+    font-display: swap;
+    src: local('beer money'), local('beermoney'), url('fonts/beermoney/400.woff2') format('woff2'), url('fonts/beermoney/400.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Sladkoeshka';
+    font-display: swap;
+    src: url('fonts/sladkoeshka/400.eot');
+    src: local('Sladkoeshka Regular'), url('fonts/sladkoeshka/400.woff') format('woff'),
+    url('fonts/sladkoeshka/400.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Blogger Sans';
+    font-display: swap;
+    src: local('Blogger Sans'), local('BloggerSans'), url('fonts/bloggersans/400.woff2') format('woff2'), url('fonts/bloggersans/400.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Roboto';
+    font-display: swap;
+    font-style: normal;
+    font-weight: normal;
+    src: local('Roboto'), local('Roboto-Regular'), url(s/roboto/v15/mUdRVCMHGKUBOACHGTH1g-vvDin1pK8aKteLpeZ5c0A.woff) format('woff');
+}
+@font-face {
+    font-family: 'Roboto';
+    font-display: swap;
+    font-style: normal;
+    font-weight: bold;
+    src: local('Roboto Bold'), local('Roboto-Bold'), url(s/roboto/v15/isZ-wbCXNKAbnjo6_TwHTrO3LdcAZYWl9Si6vvxL-qU.woff) format('woff');
+}
+@font-face {
+    font-family: 'Roboto';
+    font-display: swap;
+    font-style: italic;
+    font-weight: normal;
+    src: local('Roboto Italic'), local('Roboto-Italic'), url(s/roboto/v15/m1uAalIytmLBFXF3PwhxpHYhjbSpvc47ee6xR_80Hnw.woff) format('woff');
+}
+@font-face {
+    font-family: 'Roboto';
+    font-display: swap;
+    font-style: italic;
+    font-weight: bold;
+    src: local('Roboto Bold Italic'), local('Roboto-BoldItalic'), url(s/roboto/v15/t6Nd4cfPRhZP44Q5QAjcC0beuvGrcRTTBH456c-a4yI.woff) format('woff');
+}
+@font-face {
+    font-family: 'Roboto Light';
+    font-display: swap;
+    font-style: normal;
+    font-weight: normal;
+    src: local('Roboto Light'), local('Roboto-Light'), url(s/roboto/v15/Fl4y0QdOxyyTHEGMXX8kcbO3LdcAZYWl9Si6vvxL-qU.woff) format('woff');
+}
+@font-face {
+    font-family: 'Roboto Light';
+    font-display: swap;
+    font-style: normal;
+    font-weight: bold;
+    src: local('Roboto Medium'), local('Roboto-Medium'), url(s/roboto/v15/oHi30kwQWvpCWqAhzHcCSLO3LdcAZYWl9Si6vvxL-qU.woff) format('woff');
+}
+@font-face {
+    font-family: 'Roboto Light';
+    font-display: swap;
+    font-style: italic;
+    font-weight: normal;
+    src: local('Roboto Light Italic'), local('Roboto-LightItalic'), url(s/roboto/v15/7m8l7TlFO-S3VkhHuR0at0beuvGrcRTTBH456c-a4yI.woff) format('woff');
+}
+@font-face {
+    font-family: 'Roboto Light';
+    font-display: swap;
+    font-style: italic;
+    font-weight: bold;
+    src: local('Roboto Medium Italic'), local('Roboto-MediumItalic'), url(s/roboto/v15/OLffGBTaF0XFOW1gnuHF0UbeuvGrcRTTBH456c-a4yI.woff) format('woff');
+}
+@font-face {
+    font-family: 'TTNorms Bold';
+    font-display: swap;
+    src: url('fonts/ttnorms/343165_4_0.eot');
+    src: url('fonts/ttnorms/343165_4_0-1.eot') format('embedded-opentype'), url('fonts/ttnorms/343165_4_0.woff2') format('woff2'), url('fonts/ttnorms/343165_4_0.woff') format('woff'), url('fonts/ttnorms/343165_4_0.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'TTNorms Medium';
+    font-display: swap;
+    src: url('fonts/ttnorms/343165_D_0.eot');
+    src: url('fonts/ttnorms/343165_D_0-1.eot') format('embedded-opentype'), url('fonts/ttnorms/343165_D_0.woff2') format('woff2'), url('fonts/ttnorms/343165_D_0.woff') format('woff'), url('fonts/ttnorms/343165_D_0.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'TTNorms Regular';
+    font-display: swap;
+    src: url('fonts/ttnorms/343165_F_0.eot');
+    src: url('fonts/ttnorms/343165_F_0-1.eot') format('embedded-opentype'),url('fonts/ttnorms/343165_F_0.woff2') format('woff2'),url('fonts/ttnorms/343165_F_0.woff') format('woff'),url('fonts/ttnorms/343165_F_0.ttf') format('truetype');
+}
+
+
+.area {
+    font-family: 'TTNorms Regular',sans-serif}
+
+.area .font-header {
+    font-family: 'TTNorms Regular',sans-serif}.area.screen-lg { min-width: 1200px; }.area.screen-lg .container { width: 1140px; }.area.screen-lg .container.soft { max-width: 1140px; }.area.screen-md { min-width: 960px; }.area.screen-md .container { width: 940px; }.area.screen-md .container.soft { max-width: 940px; }.area.screen-sm { min-width: 720px; }.area.screen-sm .container { width: 720px; }.area.screen-sm .container.soft { max-width: 720px; }.area.screen-xs .container { max-width: 737px; padding: 0 15px; }
+ </style>
+    
+    
+    <!-- PLUGINS -->
+    
+    
+    <!-- proxy-module cut-head -->
+</head>
+
+<body class="area">
+<div class="area-wrapper">
+<!-- PLUGINS -->
+
+<!-- HTML -->
+<script>
+            creatium.getWindowWidth = function () {
+                var windowWidth = window.innerWidth;
+
+                
+                if (window.innerWidth === 980 && !window.MSStream && /iPhone|iPod/.test(navigator.userAgent)) {
+                    windowWidth = window.outerWidth;
+                }
+                
+                return windowWidth;
+            }
+        
+            creatium.getScreen = function () {
+                var _windowWidth = creatium.getWindowWidth();
+
+                var lgWidth = 1200 + cr.layout._left_current;
+                var mdWidth = 992 + cr.layout._left_current;
+                var smWidth = 768 + cr.layout._left_current;
+
+                if (creatium.screens === 'screens-xs') return 'xs';
+                else if (creatium.screens === 'screens-sm') return 'sm';
+                else if (creatium.screens === 'screens-md') return 'md';
+                else if (creatium.screens === 'screens-lg') return 'lg';
+                else if (creatium.screens === 'screens-xs-sm') {
+                    if (_windowWidth >= smWidth) return 'sm';
+                    else return 'xs';
+                } else if (creatium.screens === 'screens-xs-md') {
+                    if (_windowWidth >= mdWidth) return 'md';
+                    else return 'xs';
+                } else if (creatium.screens === 'screens-xs-lg') {
+                    if (_windowWidth >= lgWidth) return 'lg';
+                    else return 'xs';
+                } else if (creatium.screens === 'screens-sm-md') {
+                    if (_windowWidth >= mdWidth) return 'md';
+                    else return 'sm';
+                } else if (creatium.screens === 'screens-sm-lg') {
+                    if (_windowWidth >= lgWidth) return 'lg';
+                    else return 'sm';
+                } else if (creatium.screens === 'screens-md-lg') {
+                    if (_windowWidth >= lgWidth) return 'lg';
+                    else return 'md';
+                } else if (creatium.screens === 'screens-xs-sm-md') {
+                    if (_windowWidth >= mdWidth) return 'md';
+                    else if (_windowWidth >= smWidth && _windowWidth < mdWidth) return 'sm';
+                    else return 'xs';
+                } else if (creatium.screens === 'screens-xs-sm-lg') {
+                    if (_windowWidth >= lgWidth) return 'lg';
+                    else if (_windowWidth >= smWidth && _windowWidth < lgWidth) return 'sm';
+                    else return 'xs';
+                } else if (creatium.screens === 'screens-xs-md-lg') {
+                    if (_windowWidth >= lgWidth) return 'lg';
+                    else if (_windowWidth >= mdWidth && _windowWidth < lgWidth) return 'md';
+                    else return 'xs';
+                } else if (creatium.screens === 'screens-sm-md-lg') {
+                    if (_windowWidth >= lgWidth) return 'lg';
+                    else if (_windowWidth >= mdWidth && _windowWidth < lgWidth) return 'md';
+                    else return 'sm';
+                } else if (creatium.screens === 'screens-xs-sm-md-lg') {
+                    if (_windowWidth >= lgWidth) return 'lg';
+                    else if (_windowWidth >= mdWidth && _windowWidth < lgWidth) return 'md';
+                    else if (_windowWidth >= smWidth && _windowWidth < mdWidth) return 'sm';
+                    else return 'xs';
+                }
+            }
+            
+            creatium.isLayoutMobile = function () {
+                if (creatium.getScreen() !== 'xs') return false;
+                return creatium.getWindowWidth() < 320 + cr.layout.left;
+            }
+
+            cr.layout._left_current = cr.layout.left;
+            if (cr.layout._left_current) {
+                document.body.classList.add('layout-left-active');
+            }
+
+            creatium.layout.mobile = creatium.isLayoutMobile();
+            if (creatium.layout.mobile) {
+                document.body.classList.add('layout-mobile');
+            }
+
+            creatium.screen = creatium.getScreen();
+            document.body.classList.add('screen-' + creatium.screen);
+
+            if (creatium.device) {
+                creatium.device_fix = false;
+                if (creatium.screen === 'xs' && creatium.device !== 'mobile') creatium.device_fix = true;
+                if (creatium.screen === 'sm' && creatium.device !== 'tablet') creatium.device_fix = true;
+                if (creatium.screen === 'md' && creatium.device !== 'other') creatium.device_fix = true;
+                if (creatium.screen === 'lg' && creatium.device !== 'other') creatium.device_fix = true;
+                if (creatium.device_fix) document.write('<script src="' + creatium.async.js_adaptive_sections + '"></scr'+'ipt>');                    
+            }
+        </script><div class="node section-clear section css1" data-common="ulxbspb449f2xiri8exu"><div class="padding_top"></div><div class="wrapper1"><div class="wrapper2"></div></div><div class="container"><div class="cont"><div class="node widget-grid widget css2"><div class="grid valign-middle paddings-20px xs-wrap"><div class="gridwrap"><div class="col" style="width: 16.5523%;"><div class="cont"><div class="node widget-image widget css3 css4"><a class="bgimage bg-contain" href="index.htm" target="" style="background-size: contain; border-radius: 0px;" data-lazy-bgimage="https://img2.creatium.io/disk2/41/68/91/3f67f6b11a2032b4bf2675ef99c5cde734/logobeliy.svg#%7B%22size%22:%5B12114,9932%5D,%22quality%22:8%7D" data-lazy-bgimage_resize="true"><div class="inner"><img class="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt=""><div class="proportions"></div></div></a><noscript><img src="disk2/41/68/91/3f67f6b11a2032b4bf2675ef99c5cde734/logobeliy.svg#%7B%22size%22:%5B12114,9932%5D,%22quality%22:8%7D" alt=""></noscript></div></div></div><div class="col" style="width: 83.4477%;"><div class="cont"><div class="node widget-menu widget css5 css6"><div class="w-menu-grid right xs-center"><div class="cont"><div class="node widget-metahtml widget offer-01 opacity0 css7"><div class="metahtml css8"><script data-name="573424087" data-lazy="false" data-cdn="[&quot;&quot;]" data-sequentially="false" data-static-params="{&quot;action&quot;:&quot;copy&quot;,&quot;show_data_check&quot;:false}" data-dynamic-params="{&quot;copy_data&quot;:&quot;mineshish.20tps.ru&quot;}" class="component-js-fn">function _component_js_573424087(page, el, params) {
+
+
+const myButton = el.querySelector('.btn-custom');
+
+if(params['action']==='copy'){
+    actionCopy(el,params['copy_data']);
+}
+function actionCopy(element,data){
+    const writeBtn = element.querySelector('.write-btn');
+    const inputEl = element.querySelector('.to-copy');
+    inputEl.innerText = data;
+    // if (copyData) {
+    //     const number = copyData;
+    //     inputEl.innerText = number;
+    // }
+
+    writeBtn.addEventListener('click', () => {
+        const inputValue = inputEl.textContent.trim();
+        if (inputValue) {
+            navigator.clipboard.writeText(inputValue)
+                .then(() => {
+                    inputEl.value = '';
+                    if (writeBtn.innerText !== 'Скопировано!') {
+                        const originalhtml = writeBtn.innerHTML;
+                        writeBtn.innerText = 'Скопировано!';
+                        setTimeout(() => {
+                            writeBtn.innerHTML = originalhtml;
+                        }, 1500);
+                    }
+                })
+                .catch(err => {
+                    console.log('Что-то пошло не так', err);
+                })
+        }
+    });
+}
+}</script><button href="" data-ym_goal="" data-ga_category="" data-ga_action="" target="" class="write-btn btn-custom btn-custom__img-side-right btn-custom__img">
+ 		<span class="btn-custom__icon btn-custom__first-icon"></span>
+    <span class="btn-custom__title">IP</span>
+    <span class="btn-custom__copy hidden">(<span class="to-copy">mineshish.20tps.ru</span>)</span>
+    <span class="btn-custom__icon btn-custom__second-icon"></span>
+</button></div></div><div class="node widget-button widget css9"><div class="button-container center"><div class="button-wrapper"><a class="btn btn-legacy css10" data-action="link" data-highlight="true" data-track-active="false" href="about.html" target="_self"><div class="pad-left" style="width: 12px;"></div><div class="btn-content"><span class="text">О нас</span></div><div class="pad-right" style="width: 12px;"></div></a></div></div></div><div class="node widget-button widget css9"><div class="button-container center"><div class="button-wrapper"><a class="btn btn-legacy css10" data-action="link" data-highlight="true" data-track-active="false" href="rules.html" target="_self"><div class="pad-left" style="width: 12px;"></div><div class="btn-content"><span class="text">Правила сервера</span></div><div class="pad-right" style="width: 12px;"></div></a></div></div></div><div class="node widget-button widget css9"><div class="button-container center"><div class="button-wrapper"><a class="btn btn-legacy css10" data-action="link" data-highlight="true" data-track-active="false" href="http://x3.joinserver.xyz:25667/" target="_self"><div class="pad-left" style="width: 12px;"></div><div class="btn-content"><span class="text">Карта</span></div><div class="pad-right" style="width: 12px;"></div></a></div></div></div><div class="node widget-button widget css9"><div class="button-container center"><div class="button-wrapper"><a class="btn btn-legacy css10" data-action="link" data-highlight="true" data-track-active="false" href="modpacks.html" target="_self"><div class="pad-left" style="width: 12px;"></div><div class="btn-content"><span class="text">Скачать Сборку</span></div><div class="pad-right" style="width: 12px;"></div></a></div></div></div><div class="node widget-button widget css9"><div class="button-container center"><div class="button-wrapper"><a class="btn btn-legacy css10" data-action="link" data-highlight="true" data-track-active="false" href="world_download.html" target="_self"><div class="pad-left" style="width: 12px;"></div><div class="btn-content"><span class="text">Скачать Миры</span></div><div class="pad-right" style="width: 12px;"></div></a></div></div></div></div></div></div></div></div></div></div></div></div></div><div class="padding_bottom"></div></div><div class="node section-clear section css11"><div class="padding_top"></div><div class="wrapper1" data-lazy-bgimage="https://img2.creatium.io/disk2/93/76/f8/2357dc077150aa3b9e4b964c042c34e91c/2024_06_12_13_46_02_4k.png#%7B%22size%22:%5B%222560%22,%221440%22%5D,%22quality%22:8%7D" data-lazy-bgimage_resize="true"><div class="wrapper2"></div></div><div class="container"><div class="cont"><div class="node widget-text cr-text widget css12"><h2 class="textable css13">Обязательно к ознакомлению</h2></div><div class="node widget-text cr-text widget css14"><p class="textable css15">Проект является SMP, вы имеете правило строить что угодно (кроме свастик, бан-вордов, максимум на своей территории удалённой от спавна. Так-же вы не можете строить там, где располагаются игроки или территория занята), где угодно, без спроса кого либо.</p></div><div class="node widget-text cr-text widget css12"><h2 class="textable css16">Правила проекта:</h2></div><div class="node widget-text cr-text widget css17"><p class="textable css15">1. &nbsp;Запрещён любой гриф, если это не является безобидной шуткой. (если вы вернули вещи, восстановили сломанную вами постройку точь в точь, как она и была или же сделали что-нибудь, что попросил игрок взамен на маленький гриф, то это не будет наказываться).<br>2. &nbsp;Запрещены любые виды читов, начиная с авто-фиша, бущенной гаммы (fullbright), заканчивая баритоном. (быстрая постройка с помощью лайтматики не запрещена).<br>3. &nbsp;Запрещено использовать реплей мод в своей выгоде. (просмотр шахт, находка структур).<br>4. &nbsp;Запрещено использовать бан-ворды твича, если на сервере будет игрок со стримом на твиче. (в том числе и завуалированные бан ворды).<br>5. &nbsp;Запрещено знать сид мира каким-либо способом.<br>6. &nbsp;Запрещён любой дюп, который даёт вам преимущество. (дюп ковров для постройки арта не запрещено, но после постройки, излишки ковра должны быть выкинуты или уничтожены).</p></div><div class="node widget-text cr-text widget css18"><h2 class="textable css16">Стоит записать игрока нарушение, если админы сервера не видели нарушения.</h2></div><div class="node widget-text cr-text widget css12"><h2 class="textable css16">Нюансы правил:</h2></div><div class="node widget-text cr-text widget css19"><p class="textable css15">1. &nbsp; Если вас загриферили, то вы можете загриферить в ответ, не доводите до абсурда.<br>2. &nbsp;Если вас разозлили/бесили и вы убили игрока и вернули ему вещи, это не считается за гриф.<br>3. &nbsp;Если игрок является безмерным токсиком, (если вы ему ничего не сделали), то вы имеете право сделать с ним что либо, что вы хотите, главное не перегибайте палку.<br>4. &nbsp;Если вы подписали договор (книга в майнкрафте), то вы должны его выполнить, иначе наказание прописанное в договоре, может быть выполнено, даже если это является грифом. 5. &nbsp;Смотрите, что вы подписываете под своим именем. В свою сторону, составщик договора должен иметь договор, чтобы доказать свою правоту.<br><br></p></div><div class="node widget-text cr-text widget css12"><h2 class="textable css16">Не знание правил, не освобождает от ответственности.</h2></div></div></div><div class="padding_bottom"></div></div><div class="node section-clear section css20" data-common="ulxbspb44tyifaoev2p"><div class="padding_top"></div><div class="wrapper1"><div class="wrapper2"></div></div><div class="container"><div class="cont"><div class="node widget-grid widget css21"><div class="grid valign-middle paddings-20px xs-wrap"><div class="gridwrap"><div class="col" style="width: 27.3715%;"><div class="cont"><div class="node widget-text cr-text widget css22"><h1 class="textable css23">MINESHISH</h1></div></div></div><div class="col" style="width: 72.6285%;"><div class="cont"><div class="node widget-menu widget css21 css6"><div class="w-menu-grid right xs-center"><div class="cont"><div class="node widget-button widget css21"><div class="button-container center"><div class="button-wrapper"><button class="btn btn-legacy css24" data-action="none" data-highlight="false" data-track-active="false"><div class="pad-left" style="width: 12px;"></div><div class="btn-content"><span class="text">Наши соц. сети:</span></div><div class="pad-right" style="width: 12px;"></div></button></div></div></div><div class="node widget-button widget css21"><div class="button-container center"><div class="button-wrapper"><a class="btn btn-legacy hvr-fade css25" data-action="link" data-highlight="true" data-track-active="false" href="https://discord.gg/YZsmxj7z" target="_blank"><div class="pad-left" style="width: 12px;"></div><div class="btn-content"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAB9JREFUOE9jZKAQMFKon2HUAIbRMGAYDQNQPhr4vAAAJpgAEX/anFwAAAAASUVORK5CYII=" style="width: 32px;" data-lazy-image="https://img2.creatium.io/disk2/3c/6f/b1/78c0ae8d2327e781799e1087eef551164d/discord_v2_svgrepo_com.svg#%7B%22size%22:%5B800,800%5D,%22quality%22:8%7D" data-lazy-image_resize="true" data-lazy-image_detect="css-width"></div><div class="pad-right" style="width: 12px;"></div></a></div></div></div><div class="node widget-button widget css21"><div class="button-container center"><div class="button-wrapper"><a class="btn btn-legacy hvr-fade css25" data-action="link" data-highlight="true" data-track-active="false" href="http://www.youtube.com/@MineshishOfficial" target="_blank"><div class="pad-left" style="width: 12px;"></div><div class="btn-content"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAB9JREFUOE9jZKAQMFKon2HUAIbRMGAYDQNQPhr4vAAAJpgAEX/anFwAAAAASUVORK5CYII=" style="width: 32px;" data-lazy-image="https://i.1.creatium.io/disk2/d7/16/67/0e68c15d8b9633a9a68c16da2a0946493e/youtube_color_svgrepo_com.svg#%7B%22size%22:%5B800,800%5D,%22quality%22:8%7D" data-lazy-image_resize="true" data-lazy-image_detect="css-width"></div><div class="pad-right" style="width: 12px;"></div></a></div></div></div></div></div></div></div></div></div></div></div><div class="node widget-line widget css21"><div class="alignment" style="text-align: center;"><div class="line" style="width: 100%; height: 1px; background-color: rgb(49, 55, 72); border-radius: 0px;"></div></div></div></div></div><div class="padding_bottom"></div></div><div class="node section section-helper css26"></div>
+
+<!-- CORE -->
+<script type="text/javascript" src="assets/4.4/vendors-sync.js?v=1708442658"></script>
+<!-- DEFER -->
+    
+<!-- PLUGINS -->
+</div></body>
+</html>
